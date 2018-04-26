@@ -1,2 +1,2 @@
 # Learn
-CNN by Deep Learning
+RNN、CNN by Deep Learning
